@@ -1,0 +1,6 @@
+n=input()
+x=set(n)
+if len(x)==3:
+  print("1")
+else:
+  print("0")
